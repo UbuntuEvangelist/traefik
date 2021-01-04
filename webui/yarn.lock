@@ -112,9 +112,10 @@ angular-ui-bootstrap@^2.0.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/angular-ui-bootstrap/-/angular-ui-bootstrap-2.2.0.tgz#90ed79a6208fe6072331635cca124b2ca7b0c7e0"
 
-angular-ui-router@^0.3.1:
-  version "0.3.2"
-  resolved "https://registry.yarnpkg.com/angular-ui-router/-/angular-ui-router-0.3.2.tgz#c27e0496309c99218d5655985b164a096ab520a9"
+angular-ui-router@^0.4.3:
+  version "0.4.3"
+  resolved "https://registry.yarnpkg.com/angular-ui-router/-/angular-ui-router-0.4.3.tgz#6c29546fe50b8d2f74614dcb8660d6fc40d6e167"
+  integrity sha512-EGBG7G7ArFVkJPM+ZIgPKuMYuT16UQrr3zj3BEiXHKwxss867bGt3u7QD9g4BxR+K2qQOSWok6JGvgTWXAko3A==
   dependencies:
     angular "^1.0.8"
 
@@ -1105,7 +1106,7 @@ camelcase@^1.0.2, camelcase@^1.2.1:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/camelcase/-/camelcase-1.2.1.tgz#9bb5304d2e0b56698b2c758b08a3eaa9daa58a39"
 
-camelcase@^2.0.0, camelcase@^2.0.1:
+camelcase@^2.0.0:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/camelcase/-/camelcase-2.1.1.tgz#7c1d16d679a1bbe59ca02cacecfb011e201f5a1f"
 
