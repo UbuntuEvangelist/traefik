@@ -1105,7 +1105,7 @@ camelcase@^1.0.2, camelcase@^1.2.1:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/camelcase/-/camelcase-1.2.1.tgz#9bb5304d2e0b56698b2c758b08a3eaa9daa58a39"
 
-camelcase@^2.0.0, camelcase@^2.0.1:
+camelcase@^2.0.0:
   version "2.1.1"
   resolved "https://registry.yarnpkg.com/camelcase/-/camelcase-2.1.1.tgz#7c1d16d679a1bbe59ca02cacecfb011e201f5a1f"
 
@@ -4393,9 +4393,14 @@ number-is-nan@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/number-is-nan/-/number-is-nan-1.0.1.tgz#097b602b53422a522c1afb8790318336941a011d"
 
-nvd3@^1.7.1, nvd3@^1.8.4:
+nvd3@^1.7.1:
   version "1.8.4"
   resolved "https://registry.yarnpkg.com/nvd3/-/nvd3-1.8.4.tgz#1a3a1694c6021182ff320a764e79dd971f5aac02"
+
+nvd3@^1.8.6:
+  version "1.8.6"
+  resolved "https://registry.yarnpkg.com/nvd3/-/nvd3-1.8.6.tgz#2d3eba74bf33363b5101ebf1d093c59a53ae73c4"
+  integrity sha1-LT66dL8zNjtRAevx0JPFmlOuc8Q=
 
 oauth-sign@~0.8.0, oauth-sign@~0.8.1:
   version "0.8.2"
